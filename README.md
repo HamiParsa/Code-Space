@@ -86,15 +86,15 @@ The project showcases advanced front-end techniques including:
 <h1 align="center">Project Pictures 🖼️</h1>
 
 <div align="center">
-  <img src="/cs-pic1.png" width="700px" />
+  <img src="/pic1.png" width="700px" />
   <br/><br/>
-  <img src="/cs-pic2.png" width="700px" />
+  <img src="/pic2.png" width="700px" />
 </div>
 
 <hr/>
 
 <div align="center">
-  <img src="/cs-pic3.png" width="700px" />
+  <img src="/pic3.png" width="700px" />
   <br/><br/>
-  <img src="/cs-pic4.png" width="700px" />
+  <img src="/pic4.png" width="700px" />
 </div>
