@@ -1,36 +1,100 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+<div>
+  <h1>Click on the GitHub icon below to view the project online.</h1>
+  <a href="https://github.com/username/code-space">
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</div>
 
-## Getting Started
+# Code Space 🎓💻
 
-First, run the development server:
+Code Space is an interactive online learning platform designed to teach programming concepts in a simple and engaging way. Users can explore tutorials, follow lessons, and track their learning progress in a structured and user-friendly interface.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Features:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+<ul>
+  <li>
+    Structured course sections for different programming languages and concepts
+  </li>
+  <li>
+    Interactive lessons with examples and exercises
+  </li>
+  <li>
+    Progress tracking for users
+  </li>
+  <li>
+    Responsive dashboard for desktop and mobile
+  </li>
+  <li>
+    Smooth animations and hover effects for an engaging experience
+  </li>
+  <li>
+    User profile section to track completed lessons and achievements
+  </li>
+</ul>
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## Technologies Used:
 
-To learn more about Next.js, take a look at the following resources:
+<ul>
+  <li>
+    React for building UI components
+    <img width='20px' src='https://skillicons.dev/icons?i=react'>
+  </li>
+  <li>
+    Next.js for routing and client-side navigation
+    <img width='20px' src='https://skillicons.dev/icons?i=next'>
+  </li>
+  <li>
+    TypeScript for type safety
+    <img width='20px' src='https://skillicons.dev/icons?i=typescript'>
+  </li>
+  <li>
+    Tailwind CSS for fast and responsive styling
+    <img width='20px' src='https://skillicons.dev/icons?i=tailwindcss'>
+  </li>
+  <li>
+    Framer Motion for smooth animations
+    <img width='20px' src='https://skillicons.dev/icons?i=framer'>
+  </li>
+</ul>
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## Description:
 
-## Deploy on Vercel
+Code Space provides a modern, interactive learning environment for programming students. Users can:
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- Explore tutorials and structured lessons for various programming languages
+- Complete interactive exercises to practice coding concepts
+- Track progress and see achievements in the user profile section
+- Navigate a responsive dashboard optimized for both desktop and mobile
+- Enjoy smooth transitions, animations, and interactive lesson cards
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+The project showcases advanced front-end techniques including:
+
+- Interactive lesson cards with hover effects
+- Progress tracking interface
+- Responsive design with smooth animations
+- Professional user profile and dashboard layout
+- Engaging UI for learning and exploration
+
+---
+
+<h1 align="center">Project Pictures 🖼️</h1>
+
+<div align="center">
+  <img src="/cs-pic1.png" width="700px" />
+  <br/><br/>
+  <img src="/cs-pic2.png" width="700px" />
+</div>
+
+<hr/>
+
+<div align="center">
+  <img src="/cs-pic3.png" width="700px" />
+  <br/><br/>
+  <img src="/cs-pic4.png" width="700px" />
+</div>
