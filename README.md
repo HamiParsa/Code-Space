@@ -1,89 +1,61 @@
-<div>
-  <h1>Click on the GitHub icon below to view the project online.</h1>
+<div align="center">
+  <h1>🎓 Code Space</h1>
+  <p>Learn programming interactively — structured, modern, and engaging 💻</p>
   <a href="https://hamiparsa.github.io/Code-Space/">
-    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/View_Live_Project-1DB954?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </div>
 
-# Code Space 🎓💻
+---
 
-Code Space is an interactive online learning platform designed to teach programming concepts in a simple and engaging way. Users can explore tutorials, follow lessons, and track their learning progress in a structured and user-friendly interface.
+## 📝 About the Project
+
+**Code Space** is an interactive online learning platform designed to teach programming concepts in a simple and engaging way.  
+Built with **Next.js**, **React**, **TypeScript**, **Tailwind CSS**, and **Framer Motion**, this project demonstrates modern front-end skills for creating educational web applications.
 
 ---
 
-## Features:
+## ⚡ Features
 
 <ul>
-  <li>
-    Structured course sections for different programming languages and concepts
-  </li>
-  <li>
-    Interactive lessons with examples and exercises
-  </li>
-  <li>
-    Progress tracking for users
-  </li>
-  <li>
-    Responsive dashboard for desktop and mobile
-  </li>
-  <li>
-    Smooth animations and hover effects for an engaging experience
-  </li>
-  <li>
-    User profile section to track completed lessons and achievements
-  </li>
+  <li>📚 <b>Structured Courses</b> — Organized lessons for different programming languages and concepts</li>
+  <li>🖥️ <b>Interactive Lessons</b> — Hands-on exercises and examples</li>
+  <li>📊 <b>Progress Tracking</b> — Track completed lessons and achievements</li>
+  <li>💻 <b>Responsive Dashboard</b> — Optimized for desktop and mobile</li>
+  <li>✨ <b>Smooth Animations</b> — Interactive cards and hover effects</li>
+  <li>👤 <b>User Profile</b> — Track learning progress and achievements</li>
 </ul>
 
 ---
 
-## Technologies Used:
+## 🧰 Tech Stack
 
-<ul>
-  <li>
-    React for building UI components
-    <img width='20px' src='https://skillicons.dev/icons?i=react'>
-  </li>
-  <li>
-    Next.js for routing and client-side navigation
-    <img width='20px' src='https://skillicons.dev/icons?i=next'>
-  </li>
-  <li>
-    TypeScript for type safety
-    <img width='20px' src='https://skillicons.dev/icons?i=typescript'>
-  </li>
-  <li>
-    Tailwind CSS for fast and responsive styling
-    <img width='20px' src='https://skillicons.dev/icons?i=tailwindcss'>
-  </li>
-  <li>
-    Framer Motion for smooth animations
-    <img width='20px' src='https://skillicons.dev/icons?i=framer'>
-  </li>
-</ul>
+| Technology | Purpose |
+|------------|---------|
+| ⚛️ **React** | Building interactive UI components |
+| 🧭 **Next.js** | Routing and client-side navigation |
+| 🟦 **TypeScript** | Type safety and code quality |
+| 🎨 **Tailwind CSS** | Fast, responsive, modern styling |
+| 🪄 **Framer Motion** | Smooth transitions and interactive UI |
 
 ---
 
-## Description:
+## 💡 Description
 
-Code Space provides a modern, interactive learning environment for programming students. Users can:
+This project provides a modern and interactive learning environment where users can:
 
-- Explore tutorials and structured lessons for various programming languages
-- Complete interactive exercises to practice coding concepts
-- Track progress and see achievements in the user profile section
-- Navigate a responsive dashboard optimized for both desktop and mobile
-- Enjoy smooth transitions, animations, and interactive lesson cards
+- Explore tutorials and structured lessons for various programming languages  
+- Complete interactive exercises to practice coding concepts  
+- Track progress and view achievements in the profile section  
+- Navigate a responsive dashboard with smooth transitions and animations  
 
-The project showcases advanced front-end techniques including:
-
-- Interactive lesson cards with hover effects
-- Progress tracking interface
-- Responsive design with smooth animations
-- Professional user profile and dashboard layout
-- Engaging UI for learning and exploration
+Perfect for practicing **React**, **Next.js**, **TypeScript**, **Tailwind CSS**, and **Framer Motion** in an educational web application.
 
 ---
 
-<h1 align="center">Project Pictures 🖼️</h1>
+## 🖼️ Project Preview
+
+<h3 align="center">✨ Screenshots ✨</h3>
 
 <div align="center">
   <img src="/pic1.png" width="700px" />
@@ -97,4 +69,26 @@ The project showcases advanced front-end techniques including:
   <img src="/pic3.png" width="700px" />
   <br/><br/>
   <img src="/pic4.png" width="700px" />
+</div>
+
+---
+
+## 🚀 Future Improvements
+
+- 🌙 Dark/light mode toggle  
+- 🧠 Add quizzes and coding challenges  
+- 📱 Enhance mobile UX animations  
+- 🔔 Notifications for lesson milestones  
+
+---
+
+## 👨‍💻 Author
+
+**Developed by:** [Hami Parsa](https://github.com/hamiparsa)  
+💬 Front-End Developer | Passionate about interactive learning and modern UI  
+
+---
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,next,typescript,tailwind,framer" />
 </div>
